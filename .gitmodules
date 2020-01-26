@@ -1,0 +1,6 @@
+[submodule "copa-filmes-back-end"]
+	path = copa-filmes-back-end
+	url = https://github.com/Everton91Almeida/copa-filmes-back-end
+[submodule "copa-filmes-front-end"]
+	path = copa-filmes-front-end
+	url = https://github.com/Everton91Almeida/copa-filmes-front-end
